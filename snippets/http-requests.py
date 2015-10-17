@@ -2,8 +2,7 @@
 import requests
 
 """ The url to request """
-URL = 'http://httpbin.org/get'
-URL = 'http://localhost:8888'
+URL = ''
 """ Additional HTTP Headers (Use 'X-Requested-With' : 'XMLHttpRequest' to simulate AJAX """
 HEADERS = {'X-Requested-With':'XMLHttpRequest'}
 
