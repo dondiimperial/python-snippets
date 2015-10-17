@@ -1,3 +1,4 @@
+""" Snippets for making http requests """
 import requests
 
 """ The url to request """
